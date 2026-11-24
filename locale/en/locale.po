@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-09T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-10-09T00:00:00+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.editorialMastheadSupplement.displayName"
+msgstr "Editorial Masthead Supplement"
+
+msgid "plugins.generic.editorialMastheadSupplement.description"
+msgstr "Adds editable, free-form WYSIWYG blocks above or below the native Editorial Masthead list, for people who shouldn't need a registered user account (e.g. advisory board members)."
+
+msgid "plugins.generic.editorialMastheadSupplement.manageBlocks"
+msgstr "Manage Masthead Blocks"
+
+msgid "plugins.generic.editorialMastheadSupplement.position"
+msgstr "Position"
+
+msgid "plugins.generic.editorialMastheadSupplement.position.description"
+msgstr "Choose whether these blocks appear above or below the native editorial masthead list."
+
+msgid "plugins.generic.editorialMastheadSupplement.position.above"
+msgstr "Above the editorial masthead list"
+
+msgid "plugins.generic.editorialMastheadSupplement.position.below"
+msgstr "Below the editorial masthead list"
+
+msgid "plugins.generic.editorialMastheadSupplement.noneCreated"
+msgstr "No masthead blocks have been created."
+
+msgid "plugins.generic.editorialMastheadSupplement.untitledBlock"
+msgstr "(Untitled block)"
+
+msgid "plugins.generic.editorialMastheadSupplement.addBlock"
+msgstr "Add Block"
+
+msgid "plugins.generic.editorialMastheadSupplement.blockTitle"
+msgstr "Block Title"
+
+msgid "plugins.generic.editorialMastheadSupplement.blockContent"
+msgstr "Content"
+
+msgid "plugins.generic.editorialMastheadSupplement.titleRequired"
+msgstr "The block title is required."
